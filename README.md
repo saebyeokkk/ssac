@@ -57,3 +57,6 @@ https://www.w3schools.com/html/html_elements.asp
 *html : body의 부모요소, h1의 조상요소
 *body : html의 자식요소, h1의 부모요소
 *h1 : html의 자손요소, body의 자식요소
+
+###HTML Attributes
+https://www.w3schools.com/html/html_attributes.asp
